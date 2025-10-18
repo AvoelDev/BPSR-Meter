@@ -4,8 +4,11 @@
 
 # Credits
 
-This project, **BPSR Meter**, is a modified and customized version of the original work by **dmlgzs**: [StarResonanceDamageCounter](https://github.com/dmlgzs/StarResonanceDamageCounter).
-Thanks to MrSnakke for the initial contribution and translations.
+This project, **BPSR Meter**, is a modified and customized version of the original work by 
+
+*   **dmlgzs**: [StarResonanceDamageCounter](https://github.com/dmlgzs/StarResonanceDamageCounter).
+*   **MrSnakke** - [MrSnakke BPSR-Meter](https://github.com/mrsnakke/BPSR-Meter)
+
 We greatly appreciate their contribution to the community.  
 You can find more details about the authors and contributors in [AUTHORS.md](AUTHORS.md).
 
