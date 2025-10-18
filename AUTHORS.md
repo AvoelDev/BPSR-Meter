@@ -1,7 +1,8 @@
-# Autores y Contribuidores
+# Authors and Contributors
 
-Este proyecto está basado en el trabajo original de:
+This project is based on the original work of:
 
 *   **dmlgzs** - [StarResonanceDamageCounter](https://github.com/dmlgzs/StarResonanceDamageCounter)
+*   **MrSnakke** - [MrSnakke BPSR-Meter](https://github.com/mrsnakke/BPSR-Meter)
 
-Agradecemos a dmlgzs por su trabajo inicial que sirvió como base para este proyecto.
+We thank dmlgzs and MrSnakke for their initial work, which served as the foundation for this project.
